@@ -1,2 +1,3 @@
-# Desafios do processo seletivo
+# Desafios 
 
+Algoritmos criados para a entrevista técnica.
